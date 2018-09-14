@@ -105,6 +105,7 @@ namespace FlashIcon
 
             g.ResetTransform();
             //bazinga text
+            //end
         }
     }
 }
